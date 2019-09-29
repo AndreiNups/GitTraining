@@ -6,3 +6,6 @@
 third course
 
 this is master branch
+
+and this is branch feature
+and a new line in the branch
