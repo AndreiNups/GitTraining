@@ -4,3 +4,6 @@
 4th line
 
 third course
+
+and this is branch feature
+and a new line in the branch
